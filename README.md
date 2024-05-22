@@ -18,3 +18,9 @@ I used decision Tree, Logistic Regression, SVM in order to BUild the Model
 
 #Model Testing
 I used Accuracy score, fi score, log loss and jaccard score to evaluate the models
+
+# Second Project
+I performed EDA on Customer Lifetime Value and found out the impact and role of various features of the Dataset
+
+# Third Project
+I performed regression analysis on Wine Quality Dataset form UCI machine learning Dataset
